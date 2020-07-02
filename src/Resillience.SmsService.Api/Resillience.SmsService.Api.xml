@@ -4,6 +4,11 @@
         <name>Resillience.SmsService.Api</name>
     </assembly>
     <members>
+        <member name="T:Resillience.SmsService.Api.Controllers.HealthController">
+            <summary>
+            健康检查
+            </summary>
+        </member>
         <member name="T:Resillience.SmsService.Api.Controllers.SmsController">
             <summary>
             短信服务
