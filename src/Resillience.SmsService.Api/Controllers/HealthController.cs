@@ -21,7 +21,7 @@ namespace Resillience.SmsService.Api.Controllers
         [HttpGet]
         public IActionResult Get()
         {
-            var res = "Healthy";
+            var res = "Healthytest";
             return Ok(res);
         }
     }
