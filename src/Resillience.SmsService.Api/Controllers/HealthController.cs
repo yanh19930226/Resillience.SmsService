@@ -15,7 +15,7 @@ namespace Resillience.SmsService.Api.Controllers
     public class HealthController : ControllerBase
     {
         /// <summary>
-        /// 定时更新健康检查测试
+        /// 健康检查测试
         /// </summary>
         /// <returns></returns>
         [HttpGet]
